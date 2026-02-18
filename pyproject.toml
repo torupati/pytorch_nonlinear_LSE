@@ -1,0 +1,9 @@
+[project]
+name = "pytorch-nonlinear-lse"
+version = "0.1.0"
+description = "Test code to solve nonlinear least square error minimization using PyTorch"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.4.2",
+    "torch>=2.10.0",
+]
